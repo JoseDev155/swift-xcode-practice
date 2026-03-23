@@ -3,7 +3,7 @@
 Una APP tipo calculadora sencilla:
 
 * 2.1 Usando SWIFTUI
-* 2.2 2Usando UIkit
+* 2.2 Usando UIkit
 
 ## Cambiar entre frameworks
 

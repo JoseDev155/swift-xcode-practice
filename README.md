@@ -27,7 +27,7 @@ git clone https://github.com/JoseDev155/swift-xcode-practice.git
 cd hswift-xcode-practce/
 ```
 
-Verificar que fue hecha por el alumno, ejecutar:
+Para verificar que fueron hechas por el alumno, ejecutar:
 
 ```bash
 git log

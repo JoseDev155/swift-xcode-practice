@@ -1,6 +1,6 @@
 # TAREA PRACTICA 1 PERIODO II
 
-Repositorio de apps hechas en Swift. Tarea grupal.
+Repositorio de apps hechas en Swift. Tarea en parejas.
 
 ## Tecnologías usadas
 

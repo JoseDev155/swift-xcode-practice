@@ -7,7 +7,7 @@
 
 import Foundation
 
-// Funciiones de Calculadora
+// Funciones de Calculadora
 struct CalculatorEngine {
     func calculate(n1: String, n2: String, operation: String) -> String {
         guard let num1 = Double(n1), let num2 = Double(n2) else { return "Error" }

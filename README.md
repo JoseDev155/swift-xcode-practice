@@ -24,7 +24,7 @@ Clonar el repositorio:
 
 ```bash
 git clone https://github.com/JoseDev155/swift-xcode-practice.git
-cd hswift-xcode-practce/
+cd swift-xcode-practce/
 ```
 
 Para verificar que fueron hechas por el alumno, ejecutar:
